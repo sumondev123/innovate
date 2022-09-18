@@ -1,0 +1,40 @@
+.navber {
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+    top: 0;
+    left: 0;
+} 
+.navber__flex {
+    display: flex;
+    align-items: center;
+    padding: 25px 0;
+}
+.navber__logo {
+    width: 20%;
+}
+.navber__menu {
+    width: 60%;
+}
+.navber__items {
+    display: flex;
+    justify-content: center;
+    column-gap: 55px;
+}
+.navber__menu-content {
+    color: var(--textColor);
+    font-size: var(--paragraph);
+    font-family: var(--opensans);
+    font-weight: var(--semiBold);
+    line-height: 25px;
+    text-transform: capitalize;
+}
+.navber__icon {
+    margin-left: 5px;
+    font-size: 15px;
+}
+.navber__button {
+    width: 20%;
+    text-align: right;
+}
+

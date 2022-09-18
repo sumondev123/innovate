@@ -1,0 +1,19 @@
+:root {
+    --primary: #FBF3F0;
+    --secondary: #C4C4C4;
+    --orange: #FF5538;
+    --pink: #FFABBA;
+    --textColor: #29313D;
+    --white: #FFFFFF;
+    --sectionPadding: 90px 0;
+    --heading: 36px;
+    --subHeading: 28px;
+    --paragraph: 18px;
+    --opensans: 'Open Sans', sans-serif;
+    --nunito: 'Nunito', sans-serif;
+    --poppins: 'Poppins', sans-serif;
+    --medium: 500;
+    --bold: 700;
+    --semiBold: 600;
+    --regular: 400;
+} 
